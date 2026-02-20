@@ -1,0 +1,27 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.db
+backend/uvicorn_output.log
+backend/diagnostic_*.py
+backend/check_db.py
+backend/reproduce_*.py
+backend/test_*.py
+backend/verify_*.py
+
+# Node/Vite
+frontend/node_modules/
+frontend/dist/
+frontend/stats.html
+
+# IDE/System
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.bak
+
+# Environment
+.env
+.env.local

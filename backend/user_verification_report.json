@@ -1,0 +1,20 @@
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "verified": true
+  },
+  {
+    "username": "profesor",
+    "password": "123",
+    "role": "teacher",
+    "verified": true
+  },
+  {
+    "username": "FIX1234",
+    "password": "FIX1234",
+    "role": "student",
+    "verified": true
+  }
+]
