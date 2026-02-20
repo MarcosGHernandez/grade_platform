@@ -3,6 +3,7 @@ backend/venv/
 backend/__pycache__/
 backend/*.pyc
 backend/*.db
+*.db
 backend/uvicorn_output.log
 backend/diagnostic_*.py
 backend/check_db.py
