@@ -1,4 +1,4 @@
-# VIKOTECH Grade Core - Plataforma de Evaluación 🎓
+# VIKOTECH Grade Core - Plataforma de Evaluación 
 
 ![Status](https://img.shields.io/badge/Status-Beta-orange)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
@@ -8,20 +8,20 @@
 
 ---
 
-## 🚀 Funcionalidades Principales
+##  Funcionalidades Principales
 
-### 🔑 Gestión de Roles (RBAC)
+###  Gestión de Roles (RBAC)
 *   **Administrador**: Control total sobre usuarios (profesores/estudiantes), creación de cursos, grupos, grados académicos y periodos.
 *   **Profesor**: Gestión de criterios de evaluación, registro de calificaciones para sus cursos asignados y generación de reportes.
 *   **Estudiante**: Consulta de historial de calificaciones y progreso académico en tiempo real.
 
-### 📊 Sistema de Evaluación Inteligente
+###  Sistema de Evaluación Inteligente
 *   **Criterios Dinámicos**: Configuración de porcentajes y pesos por periodo (ej. 1° Parcial, 2° Parcial, Final).
 *   **Cálculo Automático**: Algoritmos internos para determinar promedios basados en pesos de criterios y periodos.
 *   **Importación Masiva**: Carga de estudiantes y datos mediante archivos CSV.
 *   **Auditoría de Calificaciones**: Registro de cambios para garantizar la integridad de los datos.
 
-### 📄 Reportes y Analíticas
+###  Reportes y Analíticas
 *   **Generación de PDFs**: Creación automática de boletas y reportes de rendimiento utilizando `reportlab`.
 *   **Dashboard Visual**: Interfaz intuitiva con indicadores de progreso.
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 ```text
 grade-platform/
 ├── backend/            # Lógica de servidor, modelos y base de datos
@@ -58,7 +58,7 @@ grade-platform/
 
 ---
 
-## ⚙️ Instalación y Ejecución
+##  Instalación y Ejecución
 
 ### Backend
 1. Navegar a `/backend`.
